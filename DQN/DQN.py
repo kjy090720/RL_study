@@ -8,6 +8,7 @@ import numpy as np
 from trainer import DQN
 from logger import Logger
 
+## GIT 변경사항 기록 테스트 
 
 def parse_args():
     parser = argparse.ArgumentParser()
